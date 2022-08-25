@@ -1,0 +1,8 @@
+application:
+  name: intregration-bravas
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/intregration_bravas
+    username: root
+    password: 220795
